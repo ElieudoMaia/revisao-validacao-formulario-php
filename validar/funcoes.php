@@ -10,7 +10,7 @@ function __e($input) {
 function limparVetor($varPost) {
     $arrayLimpo = [];
     foreach ($varPost as $indice => $valor) {
-        $arrayLimpo[$indice] = $valor;
+        $arrayLimpo[$indice] = __e($valor);
     }
     return $arrayLimpo;
 }
