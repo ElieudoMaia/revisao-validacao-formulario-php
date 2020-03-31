@@ -1,2 +1,3 @@
-# RevisaoForm2
-Revisão para aula 13/08/2019
+# Revisão 2 de formulários com PHP
+
+Atividade de validação de formulário com PHP
